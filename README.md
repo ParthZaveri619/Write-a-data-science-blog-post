@@ -34,7 +34,7 @@ Listed below all packages and libraries used in this project:
 </ol>
 
 ## summary
-A summary of the results of the analysis is described in detailed as <a href="https://github.com/Abdulaziz-KTA/Write-A-Data-Science-Blog-Post/blob/master/Video_Game_Sales_12_4_2019.ipynb">Jupyter notebook</a>
+A summary of the results of the analysis is described in detailed as <a href="https://github.com/@parthzaveri619/Write-A-Data-Science-Blog-Post/blob/master/Video_Game_Sales_12_4_2019.ipynb">Jupyter notebook</a>
 
 
 ## Acknowledgements
